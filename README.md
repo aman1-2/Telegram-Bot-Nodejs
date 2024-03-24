@@ -89,6 +89,8 @@ Welcome to the manual for [Your Telegram Bot Name]! This guide will help you und
 - There is a event start which when we hit starts our bot.
 
 
+
+
 ### 2.)Syntax for replying a command where we have hard saved the answer in a variable -
 ![alt Syntax for the reply of a saved answer command](./Assests/savedReply.jpeg "Syntax for the reply of a saved answer command.")
 
@@ -100,12 +102,16 @@ Welcome to the manual for [Your Telegram Bot Name]! This guide will help you und
     On the other hand if we have a any sentence starting without slash '\' then its considered as a plane chat-text.
 
 
+
+
 ### 3.)Syntax for Replying to any sticker you send -
 ![alt Syntax for Replying to a sticker will always be a thumbsUp](./Assests/stickerSyntax.jpg "Syntax for Replying to a sticker will always be a thumbsUp.")
 
 *Output->*
 
 ![alt This is how it will look when you send a sticker](./Assests/sticker%20reply.jpg "This how it will look when you send a sticker.")
+
+
 
 
 ### 4.)Syntax for replying a command where it fetches the answer from an API -
@@ -115,12 +121,16 @@ Welcome to the manual for [Your Telegram Bot Name]! This guide will help you und
 
 ![alt This is how it will look when the data will be fetched from the internet and gievn too you to such difference](./Assests/mergesort_reply.jpg "This how it will look when the data will be fetched from the internet and gievn too you to such difference.")
 
+
+
 ### 5.)Syntax for setting a reminder for the date-of-birth.
 ![alt Syntax for setting a Birthday reminder.](./Assests/dobSyntax.jpg "Syntax for setting a birthday reminder.")
 
 *Output->*
 
 ![alt This is how it will look when you will try to set a birthday reminder.](./Assests/dobReply.jpg "This is how it will look when you will try to set a birthday reminder")
+
+
 
 ### 6.)Syntax for storing some notes on your bot.
 ![alt Syntax for storing some Notes on your bot.](./Assests/notesSyntax.jpg "Syntax for storing some Notes on your bot.")

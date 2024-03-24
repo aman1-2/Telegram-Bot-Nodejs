@@ -83,6 +83,7 @@ Welcome to the manual for [Your Telegram Bot Name]! This guide will help you und
 ![alt Syntax for the start reply](./Assests/startSyntax.jpeg "Syntax for the start reply.")
 
 *Output->*
+
 ![alt This is how it will look when you start the bot](./Assests/start.jpg "This how it will look when you start the bot.")
 
 - There is a event start which when we hit starts our bot.
@@ -92,6 +93,7 @@ Welcome to the manual for [Your Telegram Bot Name]! This guide will help you und
 ![alt Syntax for the reply of a saved answer command](./Assests/savedReply.jpeg "Syntax for the reply of a saved answer command.")
 
 *Output->*
+
 ![alt This is how it will look when you ask for a saved command reply](./Assests/binarysearch%20reply.jpg "This how it will look when you ask for a saved command reply.")
 
 - Anything starting with a '\' slash inside the bot is taken or treated a command if cooresponding to that command if we have any reply associated to it then its provided otherwise ignore.
@@ -102,6 +104,7 @@ Welcome to the manual for [Your Telegram Bot Name]! This guide will help you und
 ![alt Syntax for Replying to a sticker will always be a thumbsUp](./Assests/stickerSyntax.jpg "Syntax for Replying to a sticker will always be a thumbsUp.")
 
 *Output->*
+
 ![alt This is how it will look when you send a sticker](./Assests/sticker%20reply.jpg "This how it will look when you send a sticker.")
 
 
@@ -109,18 +112,21 @@ Welcome to the manual for [Your Telegram Bot Name]! This guide will help you und
 ![alt Syntax for fetching the reply from a API](./Assests/apiFetch.jpg "Syntax for fetching the reply from a API.")
 
 *Output->*
+
 ![alt This is how it will look when the data will be fetched from the internet and gievn too you to such difference](./Assests/mergesort_reply.jpg "This how it will look when the data will be fetched from the internet and gievn too you to such difference.")
 
 ### 5.)Syntax for setting a reminder for the date-of-birth.
 ![alt Syntax for setting a Birthday reminder.](./Assests/dobSyntax.jpg "Syntax for setting a birthday reminder.")
 
 *Output->*
+
 ![alt This is how it will look when you will try to set a birthday reminder.](./Assests/dobReply.jpg "This is how it will look when you will try to set a birthday reminder")
 
 ### 6.)Syntax for storing some notes on your bot.
 ![alt Syntax for storing some Notes on your bot.](./Assests/notesSyntax.jpg "Syntax for storing some Notes on your bot.")
 
 *Output->*
+
 ![alt This is how it will look once you will add a note and try to see it.](./Assests/notesReply.jpg "This is how it will look with the done and list of data stored by you.")
 
 ---

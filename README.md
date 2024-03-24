@@ -148,4 +148,4 @@ We value your feedback! If you have any suggestions, questions, or encounter any
 
 ## Support
 
-If you need further assistance or have any inquiries, you can reach out to our support team at [support@example.com].
+If you need further assistance or have any inquiries, you can reach out to me.

@@ -56,19 +56,22 @@ Welcome to the manual for [Your Telegram Bot Name]! This guide will help you und
 ## Examples
 
 1. To get the answer of few programs stored in it:
+
         /binarysearchcpp
         /mergesort
 
-2. Setting Date of Birth:
+3. Setting Date of Birth:
 
         /setdob 2004-01-02
 
 
-3. Adding a Task:
+4. Adding a Task:
+
         /add Add your task
 
 
-4. Viewing Tasks:
+6. Viewing Tasks:
+
         /list
 
 

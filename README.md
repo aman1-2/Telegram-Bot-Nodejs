@@ -1,5 +1,5 @@
 # Telegram Bot
-- If you are new to the `Javascript` and `Nodejs` and just now completed with the async functions and call back functions with this bear minimum knowledge creating a telegram bot would be good to go and easy to do task with leass code and thatto becomes more easy if you use a thrid party package which can make your life even simpler.
+- If you are new to the `Javascript` and `Nodejs` and just now completed with the async functions and call back functions with this bear minimum knowledge creating a telegram bot would be good to go and easy to do task with less code and that to becomes more easy if you use a third party package which can make your life even simpler.
   
 - Before starting with your bot Program you find need to `create` a token for your bot.
   
